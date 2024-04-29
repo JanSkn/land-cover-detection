@@ -40,7 +40,7 @@ overpass, parking lot, river, runway, sparse residential, storage tanks, tennis 
 
 Examples of the images and their predictions:
 
-<img width="1048" alt="image" src="https://github.com/JanSkn/land-cover-detection/assets/68644413/5d2999ce-742a-4c8d-a85e-bdd6f2b25e29">
+<img width="1060" alt="image" src="https://github.com/JanSkn/land-cover-detection/assets/68644413/ca41552a-b5fd-4b66-8e7b-a2291fdca01e">
 
 <br /><br />
 
